@@ -11,6 +11,12 @@
 ## How to contribute
 If you would like to add anything or find any issues to this project, feel free to fork the repository, make changes, and submit a pull request.
 
+## License Choice
+*explain*
+
+## Code of Conduct
+*explain*
+
 ## Authors
 Graham Smith (https://github.com/grahamsmith0)
 
