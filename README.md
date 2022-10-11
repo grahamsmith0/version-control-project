@@ -12,10 +12,10 @@
 If you would like to add anything or find any issues to this project, feel free to fork the repository, make changes, and submit a pull request.
 
 ## License Choice
-*explain*
+Seeing as though this code doesn't really do anything useful, we decided that anyone can use the code in any way they desire.
 
 ## Code of Conduct
-*explain*
+We simply wanted the contributors to all be nice to each other and treat each other with respect. We found that the template GitHub has provides us with this precedent.
 
 ## Authors
 Graham Smith (https://github.com/grahamsmith0)
